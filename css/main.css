@@ -124,9 +124,9 @@ a {
        border-radius: 20px;
    }
    
-   .dog-photo {
+   .cat-photo {
        display: block;
-       max-width: 250px;
+       max-width: 500px;
        margin: 0 auto 30px;
        border-radius: 5px;
    }
